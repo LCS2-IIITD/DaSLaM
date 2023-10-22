@@ -1,0 +1,34 @@
+question: Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn yesterday?
+
+Solution: Let us think step by step, 
+1. Money per hour for babysititng is $12
+2. Number of minutes babysitting done is 50
+3. Number of minutes in an hour is 60
+4. Number of hours babysitting done, which is 50/60 = 0.833
+5. Money earned is number of hours babysit * money per hour for babysit, which is 0.833 * $12 = $10
+6. We are asked money earned, which is $10
+7. Answer: $10 ###
+
+question: Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much money did bettys have now?
+
+Solution: Let us think step by step, 
+1. Wallet cost is $100
+2. Money with betty is half of wallet cost which is $100/2 = $50 
+3. Money gave by parents is $15
+4. Money given by grandparents is twich as much as parents, which is 2*$15 = $30
+5. We are asked total money with betty, which is moeny betty had + money given by parents + money given by grandparents = $50 + $15 + $30 = 95
+6. We are asked money that betty has now, which is $95
+6. Answer: $95 ###
+
+question: Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he finishes everything, how many slices combined?
+
+Solution: Let us think step by step, 
+1. Large pizzas bought is 2
+2. Small pizzas bought is 2
+3. Slices in small pizza is 8
+4. Slices in large pizza is 16
+5. Total slices in small pizza is 2*8 = 16
+6. Total slices in large pizza is 2*16 = 32
+7. Slices in total = slices in large pizza+ slices in small pizza = 16 + 32 = 48
+8. We are asked slices in total, which is 48
+9. Answer: 48 ###
