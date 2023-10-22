@@ -2,6 +2,14 @@
 
 This repository contains code for the paper **Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning**, accepted at **EMNLP Main** Conference 2023.
 
+
+**Authors**: [Gurusha Juneja](https://gurusha01.github.io/), [Subhabrata Dutta](), [Soumen Chakrabarti](), [ Sunny Manchanda](), [Tanmoy Chakraborty](https://www.tanmoychak.com/)
+
+<p align="center">
+  <img width="800px" src="img/main.png" >
+</p>
+
+
 ## 🛠 Dependencies and Installation
 - torch `2.0.1+cu117`
 - other dependencies in requirements.txt
