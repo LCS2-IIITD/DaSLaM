@@ -12,7 +12,10 @@ This repository contains code for the paper **Small Language Models Fine-tuned t
 
 ## 🛠 Dependencies and Installation
 - torch `2.0.1+cu117`
-- other dependencies in requirements.txt
+- sentencepiece `0.1.99`
+- transformers
+- trl `0.4.1`
+- other dependencies in `requirements.txt`
 
 ```python
 # git clone this repository
