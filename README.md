@@ -6,7 +6,7 @@ This repository contains code for the paper **Small Language Models Fine-tuned t
 **Authors**: [Gurusha Juneja](https://gurusha01.github.io/), [Subhabrata Dutta](), [Soumen Chakrabarti](), [ Sunny Manchanda](), [Tanmoy Chakraborty](https://www.tanmoychak.com/)
 
 <p align="center">
-  <img width="800px" src="img/main.png" >
+  <img width="800px" src="main.png" >
 </p>
 
 
