@@ -52,4 +52,19 @@ python3 LLAMA13B/Context/ppo_train_13B.py
 ## 📞 Contact
 If you have any questions or issues, please feel free to reach out [Gurusha Juneja](https://gurusha01.github.io/) at <a href="mailto:gurushajuneja@gmail.com">gurushajuneja@gmail.com</a>.
 
+## ✏️ Citation
+
+If you think that this work is helpful, please feel free to leave a star ⭐️ and cite our paper:
+
+```
+@misc{juneja2023small,
+      title={Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning}, 
+      author={Gurusha Juneja and Subhabrata Dutta and Soumen Chakrabarti and Sunny Manchanda and Tanmoy Chakraborty},
+      year={2023},
+      eprint={2310.18338},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
